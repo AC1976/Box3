@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="flex -mx-3">
       <div className="flex-1 px-3">
         <h2 className="text-lg font-semibold">Contact</h2>
-        <p className="mt-5">Interesse? Stuur ons een <a href="mailto:boxdriemooinie@gmail.com">berichtje.</p>
+        <p className="mt-5">Interesse? Stuur ons een <a href="mailto:boxdriemooinie@gmail.com">berichtje</a>.</p>
       </div>
       <div className="flex-1 px-3">
         <h2 className="text-lg font-semibold">Achtergrond info</h2>
