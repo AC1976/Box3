@@ -19,12 +19,12 @@ export default () => (
             Box 3? Mooi niet!
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat u nodig heeft om bezwaar te maken tegen uw aanslag inkomstenbelasting 2019. Strijd mee tegen de buitensporige effectieve belastingdruk op het rendement van uw spaarrekeningen en depositos.
+            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat u nodig heeft om bezwaar te maken tegen uw aanslag inkomstenbelasting 2019. Strijd met assistentie van ervaren fiscalisten mee tegen de buitensporige Box 3 heffing.  
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Get Started</Button>
+            <Button size="lg">Box 3? Ik niet!</Button>
           </p>
-          <p className="mt-4 text-gray-600">Sed fermentum felis ut cursu</p>
+          <p className="mt-4 text-gray-600">Schrijf in voor de nieuwsbrief en wees voorbereid.</p>
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
@@ -33,32 +33,29 @@ export default () => (
     </section>
     <section id="features" className="py-20 lg:pb-40 lg:pt-48">
       <div className="container mx-auto text-center">
-        <h2 className="text-3xl lg:text-5xl font-semibold">Main Features</h2>
+        <h2 className="text-3xl lg:text-5xl font-semibold">Voordelen</h2>
         <div className="flex flex-col sm:flex-row sm:-mx-3 mt-12">
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service One</p>
+              <p className="font-semibold text-xl">A-Team</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+                Maak gebruik van de kennis en kunde van een A-team van Nederlandse fiscalisten.
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Two</p>
+              <p className="font-semibold text-xl">Geen moeite</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+                 Met de verworven kennis en voorbeeldbrieven maakt u zelf binnen 60 minuten bezwaar tegen uw aanslag.
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Service Three</p>
+              <p className="font-semibold text-xl">Kost nakkes</p>
               <p className="mt-4">
-                An enim nullam tempor gravida donec enim ipsum blandit porta justo integer odio
-                velna vitae auctor integer.
+                Principes zijn niet in geld uit te drukken. Onze dienstverlening is kosteloos en zonder verplichtingen. 
               </p>
             </Card>
           </div>
