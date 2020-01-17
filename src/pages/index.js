@@ -19,12 +19,12 @@ export default () => (
             Box 3? Mooi niet!
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat u nodig heeft om bezwaar te maken tegen uw aanslag inkomstenbelasting 2019. Strijd met assistentie van ervaren fiscalisten mee tegen de buitensporige Box 3 heffing.  
+            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat u nodig heeft om komend voorjaar bezwaar te maken tegen de aanslag inkomstenbelasting 2019. Strijd mee tegen de buitensporige Box 3 heffing.  
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Box 3? Ik niet!</Button>
+            <Button size="lg">Doe mee</Button>
           </p>
-          <p className="mt-4 text-gray-600">Schrijf in voor de nieuwsbrief en wees voorbereid.</p>
+          <p className="mt-4 text-gray-600">Join the rebellion.</p>
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
@@ -47,7 +47,7 @@ export default () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Gain Without Pain</p>
               <p className="mt-4">
-                 Met de verworven kennis en voorbeeldbrieven maakt u zelf binnen 60 minuten bezwaar tegen uw aanslag.
+                 Met onze adviezen in klare taal & voorbeeldbrieven maakt u zelf binnen 60 minuten bezwaar.
               </p>
             </Card>
           </div>
@@ -55,7 +55,7 @@ export default () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Nada Nakkes Noppes</p>
               <p className="mt-4">
-                Principes zijn niet in geld uit te drukken. Onze dienstverlening is gratis en voor noppes. 
+                Principes zijn niet in geld uit te drukken. Wij doen dit voor noppes. 
               </p>
             </Card>
           </div>
