@@ -94,7 +94,7 @@ export default () => (
             Gaat dat lukken?
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Absoluut. Politieke partijen die laten stelen van burgers zakken vroeg of laat, links- of rechtsom, binnenstebuiten of buitenstebinnen, door de stoelen van het parlement. And they know it.
+            Absoluut. Politieke partijen die stelen van burgers zakken vroeg of laat, links- of rechtsom, binnenstebuiten of buitenstebinnen, door de stoelen van het parlement. And they know it.
           </p>
         </div>
       }
