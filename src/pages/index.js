@@ -19,7 +19,7 @@ export default () => (
             Box 3? Mooi niet!
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat u nodig heeft om komend voorjaar bezwaar te maken tegen de aanslag inkomstenbelasting 2019. Strijd mee tegen de buitensporige Box 3 heffing.  
+            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat je nodig hebt om bezwaar te maken tegen de aanslag inkomstenbelasting 2019. En strijd mee tegen de buitensporige Box 3 heffing.  
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Doe mee</Button>
@@ -47,7 +47,7 @@ export default () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Gain Without Pain</p>
               <p className="mt-4">
-                 Met onze adviezen in klare taal & voorbeeldbrieven maakt u zelf binnen 60 minuten bezwaar.
+                 Met onze adviezen in klare taal & voorbeeldbrief maakt je in no time bezwaar.
               </p>
             </Card>
           </div>
