@@ -16,15 +16,15 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Box 3? Mooi niet!
+            Box 3? Mooi Nie'!
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Schrijf in voor de nieuwsbrief en ontvang gratis alles wat je nodig hebt om bezwaar te maken tegen de aanslag inkomstenbelasting 2019. En strijd mee tegen de buitensporige Box 3 heffing.  
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Doe mee</Button>
+            <Button size="lg">Doe mee!</Button>
           </p>
-          <p className="mt-4 text-gray-600">Join the rebellion.</p>
+          <p className="mt-4 text-gray-600">~ Join the Tea Party ~</p>
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
