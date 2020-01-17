@@ -24,8 +24,7 @@ export default () => (
           <p className="mt-8 md:mt-12">
             <Button size="lg">Schrijf in!</Button>
           </p>
-          <p className="mt-4 text-gray-600">....join the Tea Party</p>
-        </div>
+         </div>
         <div className="lg:w-1/2">
           <HeroImage />
         </div>
