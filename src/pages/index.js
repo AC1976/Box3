@@ -22,9 +22,9 @@ export default () => (
             Schrijf in voor de nieuwsbrief en ontvang gratis alles wat je nodig hebt om bezwaar te maken tegen de aanslag inkomstenbelasting 2019. En strijd mee tegen de buitensporige Box 3 heffing.  
           </p>
           <p className="mt-8 md:mt-12">
-            <Button size="lg">Doe mee!</Button>
+            <Button size="lg">Schrijf in!</Button>
           </p>
-          <p className="mt-4 text-gray-600">~ Join the Tea Party ~</p>
+          <p className="mt-4 text-gray-600">  Join the Tea Party</p>
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
