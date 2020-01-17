@@ -47,7 +47,7 @@ export default () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Gain Without Pain</p>
               <p className="mt-4">
-                 Met onze adviezen in klare taal & voorbeeldbrief maakt je in no time bezwaar.
+                 Met onze adviezen in klare taal & voorbeeldbrief maak je in no time bezwaar.
               </p>
             </Card>
           </div>
@@ -66,10 +66,9 @@ export default () => (
       id="services"
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
-          <h3 className="text-3xl font-semibold leading-tight">Market Analysis</h3>
+          <h3 className="text-3xl font-semibold leading-tight">Geschiedenis</h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Our team of enthusiastic marketers will analyse and evaluate how your company stacks
-            against the closest competitors
+            Het fictieve rendement op spaarrekeningen is sinds lange tijd hoger dan het reele rendement. Volgens de Hoge Raad is sprake van een systematisch probleem dat alleen door de wetgever kan worden opgelost. Die is druk met het afpakken van kinderopvangtoeslagen en kampt met verouderde ICT systemen. Dat kan zo niet langer.    
           </p>
         </div>
       }
