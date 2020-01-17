@@ -4,11 +4,11 @@ const Footer = () => (
   <footer className="container mx-auto py-16 px-3 mt-48 mb-8 text-gray-800">
     <div className="flex -mx-3">
       <div className="flex-1 px-3">
-        <h2 className="text-lg font-semibold">About Us</h2>
-        <p className="mt-5">Ridiculus mus mauris vitae ultricies leo integer malesuada nunc.</p>
+        <h2 className="text-lg font-semibold">Contact</h2>
+        <p className="mt-5">Interesse? Stuur ons een <a href="mailto:boxdriemooinie@gmail.com">berichtje>.</p>
       </div>
       <div className="flex-1 px-3">
-        <h2 className="text-lg font-semibold">Achtergrond</h2>
+        <h2 className="text-lg font-semibold">Achtergrond info</h2>
         <ul className="mt-4 leading-loose">
           <li>
             <a href="https://uitspraken.rechtspraak.nl/inziendocument?id=ECLI:NL:HR:2019:816">Hoge Raad 14 juni 2019</a>
