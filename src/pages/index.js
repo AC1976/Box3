@@ -20,9 +20,20 @@ export default () => (
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Schrijf je in voor de nieuwsbrief en ontvang alles wat je nodig hebt om bezwaar te maken tegen de aanslag inkomstenbelasting 2019. Strijd mee tegen de buitensporige Box 3 heffing.  
           </p>
-          <p className="mt-8 md:mt-12">
-            <Button size="lg">Schrijf in!</Button>
-          </p>
+    
+   <form name="contact" netlify>
+  <p>
+    <label>Name <input type="text" name="name" /></label>
+  </p>
+  <p>
+    <label>Email <input type="email" name="email" /></label>
+  </p>
+  <p>
+    <button type="submit">Send</button>
+  </p>
+</form>
+   
+  
          </div>
         <div className="lg:w-1/2">
           <HeroImage />
