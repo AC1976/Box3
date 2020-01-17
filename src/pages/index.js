@@ -81,7 +81,7 @@ export default () => (
             Hoe nu verder?
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Goeie vraag. De regering duwt de hete aardappel door naar 2022, dus naar de volgende regering. Nog 2 jaar belasting betalen over spookrendementen is onacceptabel. Alleen door middel van systeem ontwrichtende massa bezwaren kunnen we deze regering dwingen tot onmiddellijke actie.  
+            Goeie vraag. Het Ministerie van Financien duwt de hete aardappel door naar 2022. Nog 2 jaar belasting betalen over spookrendementen is onacceptabel. Alleen door middel van systeem ontwrichtende massa bezwaren kunnen we deze regering dwingen tot onmiddellijke actie.  
           </p>
         </div>
       }
