@@ -16,10 +16,10 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Box 3? Echt niet!
+            Box 3? Mooi niet!
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
-            Maak nu bezwaar tegen uw aanslag inkomstenbelasting 2019 en sorteer voor op een teruggaaf van de belasting over het fictieve rendement op uw spaarrekeningen en depositos.
+            Schrijf in voor de nieuwsbrief en ontvang gratis alles wat u nodig heeft om bezwaar te maken tegen uw aanslag inkomstenbelasting 2019. Strijd mee tegen de buitensporige effectieve belastingdruk op het rendement van uw spaarrekeningen en depositos.
           </p>
           <p className="mt-8 md:mt-12">
             <Button size="lg">Get Started</Button>
