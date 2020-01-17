@@ -66,9 +66,9 @@ export default () => (
       id="services"
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
-          <h3 className="text-3xl font-semibold leading-tight">Geschiedenis</h3>
+          <h3 className="text-3xl font-semibold leading-tight">Wat vooraf ging</h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Het fictieve rendement op spaarrekeningen is sinds lange tijd hoger dan het reele rendement. Volgens de Hoge Raad is sprake van een systematisch probleem dat alleen door de wetgever kan worden opgelost. Die is druk met het afpakken van kinderopvangtoeslagen en kampt met verouderde ICT systemen. Dat kan zo niet langer.    
+            Het fictieve rendement op spaarrekeningen is sinds lange tijd hoger dan het werkelijke rendement. Volgens de Hoge Raad is sprake van een systematisch probleem dat alleen door de wetgever kan worden opgelost. Die is  druk met het afpakken van kinderopvangtoeslagen en kampt met verouderde ICT systemen; pas over 2 jaar komt er een oplossing. Dit kan zo niet langer.   
           </p>
         </div>
       }
@@ -79,11 +79,10 @@ export default () => (
       primarySlot={
         <div className="lg:pl-32 xl:pl-48">
           <h3 className="text-3xl font-semibold leading-tight">
-            Design And Plan Your Business Growth Steps
+            Hoe nu verder?
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Once the market analysis process is completed our staff will search for opportunities
-            that are in reach
+            Goeie vraag. De regering duwt de hete aardappel door naar 2022, dus naar de volgende regering. Dat is derhalve geen garantie voor een oplossing. Wij hopen door middel van  systeem ontwrichtende massa bezwaren door alle Nederlanders met spaarcenten, de regering te dwingen tot onmiddellijke actie.  
           </p>
         </div>
       }
@@ -93,11 +92,10 @@ export default () => (
       primarySlot={
         <div className="lg:pr-32 xl:pr-48">
           <h3 className="text-3xl font-semibold leading-tight">
-            Search For Performance Optimization
+            Gaat dat lukken?
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            With all the information in place you will be presented with an action plan that your
-            company needs to follow
+            Absoluut. Een regering die steelt van haar burgers loopt vroeg of laat, links- of rechtsom, binnenstebuiten of buitenstebinnen, op de klippen. En daar is niemand mee gebaat.
           </p>
         </div>
       }
