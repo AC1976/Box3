@@ -37,15 +37,15 @@ export default () => (
         <div className="flex flex-col sm:flex-row sm:-mx-3 mt-12">
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">A-Team</p>
+              <p className="font-semibold text-xl">Meet the A-Team</p>
               <p className="mt-4">
-                Maak gebruik van de kennis en kunde van een A-team van Nederlandse fiscalisten.
+                Maak gebruik van de kennis en kunde van ervaren Nederlandse fiscalisten.
               </p>
             </Card>
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Geen moeite</p>
+              <p className="font-semibold text-xl">Gain Without Pain</p>
               <p className="mt-4">
                  Met de verworven kennis en voorbeeldbrieven maakt u zelf binnen 60 minuten bezwaar tegen uw aanslag.
               </p>
@@ -53,9 +53,9 @@ export default () => (
           </div>
           <div className="flex-1 px-3">
             <Card className="mb-8">
-              <p className="font-semibold text-xl">Kost nakkes</p>
+              <p className="font-semibold text-xl">Nada Nakkes Noppes</p>
               <p className="mt-4">
-                Principes zijn niet in geld uit te drukken. Onze dienstverlening is kosteloos en zonder verplichtingen. 
+                Principes zijn niet in geld uit te drukken. Onze dienstverlening is gratis en voor noppes. 
               </p>
             </Card>
           </div>
