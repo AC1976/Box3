@@ -7,6 +7,7 @@ const Footer = () => (
         <h2 className="text-lg font-semibold">Contact</h2>
         <p className="mt-5">Interesse? Want to join the Tea Party? Stuur ons een <a href="mailto:box3teaparty@gmail.com">berichtje</a> en we nemen contact op.</p>
       </div>
+</div>
 </footer>
 );
 
