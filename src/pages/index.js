@@ -15,7 +15,7 @@ export default () => (
       <div className="container mx-auto px-8 lg:flex">
         <div className="text-center lg:text-left lg:w-1/2">
           <h1 className="text-4xl lg:text-5xl xl:text-6xl font-bold leading-none">
-            Box 3? Mooi Nie'!
+            Box 3? Mooi Nie!
           </h1>
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Schrijf je in voor de nieuwsbrief en ontvang alles wat je nodig hebt om bezwaar te maken tegen de aanslag inkomstenbelasting 2019. Strijd mee tegen de buitensporige Box 3 heffing.  
@@ -64,7 +64,7 @@ export default () => (
             <Card className="mb-8">
               <p className="font-semibold text-xl">Nada Nakkes Noppes</p>
               <p className="mt-4">
-                Principes zijn niet in geld uit te drukken. Wij doen dit voor noppes. 
+                Principes zijn niet in geld uit te drukken. Onze info is gratis. 
               </p>
             </Card>
           </div>
@@ -104,7 +104,7 @@ export default () => (
             Gaat dat lukken?
           </h3>
           <p className="mt-8 text-xl font-light leading-relaxed">
-            Absoluut. Politieke partijen die stelen van burgers zakken vroeg of laat, links- of rechtsom, binnenstebuiten of buitenstebinnen, door de stoelen van het parlement. And they know it.
+            Absoluut. Politieke partijen die stelen van burgers zakken vroeg of laat, links- of rechtsom, achter- of vooruit door de zetels van het parlement. And they know it.
           </p>
         </div>
       }
